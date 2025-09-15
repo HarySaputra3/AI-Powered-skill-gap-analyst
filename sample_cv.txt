@@ -1,0 +1,15 @@
+Hary Saputra
+Software Engineer
+
+Experience:
+- Built a web application using React, Next.js, and PostgreSQL.
+- Developed an API using Hapi.js and Prisma.
+- Integrated Midtrans payment gateway.
+
+Skills:
+- JavaScript, TypeScript, React, Node.js, python, web scrapping
+- SQL, PostgreSQL
+- API Development
+
+Education:
+- BSc in Information Systems

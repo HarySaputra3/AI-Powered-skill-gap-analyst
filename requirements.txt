@@ -1,0 +1,9 @@
+requests  
+pandas  
+spacy  
+langgraph  
+langchain  
+langchain-core  
+torch
+sentence-transformers  
+beautifulsoup4  
