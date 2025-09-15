@@ -23,7 +23,7 @@ The system will:
 ## 📂 Project Structure
 
 ```
-ai-skill-gap/
+AI-Powered-skill-gap-analyst/
 ├── agents/
 │   ├── cv_parser.py
 │   ├── market_intel.py
